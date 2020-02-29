@@ -63,7 +63,7 @@ export default {
 
 .container {
   position: relative;
-  width: 20%;
+  /*width: 20%;*/
 }
 
 .middle {
