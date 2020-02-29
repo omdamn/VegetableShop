@@ -3,12 +3,11 @@
     <div class="header">
       <h1><strong>Vegetable Shop</strong></h1>
     </div>
-    <!-- <Product /> -->
-    <b-container class="bv-example-row">
+    <div class="container">
           <b-row cols="1" cols-sm="2" cols-md="3" cols-lg="5">
           <Product v-for="(item,key) in products" :key="key" :item='item' v-show="item.stock>0"  class="mb-3"/>             
           </b-row>
-      </b-container>
+      </div>
   </div>
 </template>
 
