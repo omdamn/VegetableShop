@@ -63,7 +63,7 @@ export default {
 
 .container {
   position: relative;
-  /* width: 20%; 放到github會跑*/
+  /* width: 20%; 放到github會跑 */
 }
 
 .middle {
