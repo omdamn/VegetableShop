@@ -54,11 +54,7 @@ export default new Vuex.Store({
         var pid =state.product.find((item) => {
           return item.id == state.cart[i].id
         })
-        console.log(state.cart[i].id)
-        console.log(pid)
-        console.log(pid.stock)
         pid.stock = pid.stock - state.cart[i].qty
-        console.log(pid.stock)
       }
       state.cart = []
     }
