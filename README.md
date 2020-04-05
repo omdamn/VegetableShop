@@ -1,24 +1,5 @@
-# grandmashop
+# Vegetable Shop
 
-## Project setup
-```
-npm install
-```
+練習用Vue.js，搭配Vuex做一個簡單的購物車網站，功能包含：基本購物車、庫存控管
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+DEMO:https://lolo0159228.github.io/VegetableShop/#/
