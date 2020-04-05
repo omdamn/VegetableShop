@@ -64,10 +64,14 @@ export default {
 .container {
   position: relative;
 <<<<<<< HEAD
+<<<<<<< HEAD
   /* width: 20%; 放到github會跑 */
 =======
   /*width: 20%;*/
 >>>>>>> e4afe55eae266c607073f015eb47ce3b051a809a
+=======
+  /*width: 20%;*/
+>>>>>>> origin/master
 }
 
 .middle {
